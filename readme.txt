@@ -5,6 +5,8 @@
 
 Use the makefile to compile and view the executable file names to actually run the programs
 
+NOTE: I have added some extra .bin and text files to help run the system
+
 # aim.c
     Contains all the functions required for the system
     
