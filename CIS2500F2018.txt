@@ -1,0 +1,5 @@
+CIS*2500 Intermediate Programming
+Kim, Grace Haeun (BIOM) 37
+Skurikhin, Boris Yurevich (CS:C) 70
+Van Braeckel, Austin Ho-Yee (Gr.11 @CCVI) 100
+Van Braeckel, Mitchell Ho-Mun (SENG:C) 30
